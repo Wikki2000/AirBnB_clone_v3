@@ -156,10 +156,9 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Joann Vuong
-Justin Majetich - [Github](https://github.com/justinmajetich) / [Twitter]((https://twitter.com/JustinMajetich)
-Mitchell Moscovics - [Github](https://github.com/mmoscovics) / 
-Wisdom Okposin - [Github](https://github.com/Wikki2000/)
 
+Second part of Airbnb: Joann Vuong
+
+Keith Steve Juma - [Github](https://github.com/TaiKeith) / [Twitter](https://twitter.com/KeithSteve47)
 ## License
 Public Domain. No copy write protection. 
