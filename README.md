@@ -159,7 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Second part of Airbnb: Joann Vuong
 
-Keith Steve Juma - [Github](https://github.com/TaiKeith) / [Twitter](https://twitter.com/KeithSteve47)
+Keith Steve Juma - [Github](https://github.com/TaiKeith) / [Twitter](https://twitter.com/KeithSteve47) <br>
 Wisdom Okposin - [Github](https://github.com/Wikki2000)
 ## License
 Public Domain. No copy write protection. 
